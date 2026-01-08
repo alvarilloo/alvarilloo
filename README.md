@@ -1,5 +1,4 @@
-# Hi, I'm Álvaro ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
-===============================================================================================================================
+# Hi, I'm Álvaro 👋
 ## About Me
 I develop FiveM scripts with a strong focus on **security**, **performance**, **structure**, and **long-term maintainability**.
 I enjoy designing systems that solve real server needs, from gameplay mechanics to backend logic, always ensuring stable and secure implementations.
